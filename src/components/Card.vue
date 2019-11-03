@@ -4,6 +4,7 @@
       <div class="card-body">
         <h5 class="card-title">{{ title }}</h5>
       </div>
+      <!-- This is Lib -->
       <draggable class="dragArea list-group list-group-flush"
         :list="list"
         group="people" @change="log">

@@ -2,7 +2,7 @@
   <div id="app">
     <div class="container">
       <div class="row">
-        <!-- List Of Cards -->
+        <!-- List Of Cards (all cards is here) -->
         <Card 
           title="To Do" 
           :list="list1" 
